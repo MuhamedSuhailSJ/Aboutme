@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhamed Suhai</h1>
-<h3 align="center">MERN Stack | Web Developer</h3>
+<h3 align="center">As a developer, I am passionate about leveraging technology to solve real-world problems and deliver seamless user experiences. My skill set encompasses a wide range of technologies, allowing me to contribute effectively to both front-end and back-end development. I am committed to continuous learning and actively explore emerging technologies to stay ahead in the field.
+
+**Core Competencies**:
+- **Full-Stack Development**: Building end-to-end solutions with modern frameworks and technologies.
+- **Problem-Solving**: Tackling complex technical challenges and optimizing system performance.
+- **Collaboration**: Engaging in open-source contributions and working with cross-functional teams to deliver high-quality products.
+- **Continuous Learning**: Always exploring new tools, frameworks, and best practices in the ever-evolving tech landscape.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedsuhailsj&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedsuhailsj" /> </p>
 
