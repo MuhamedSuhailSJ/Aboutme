@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Muhamed Suhai</h1>
-<h3 align="center">As a developer, I am passionate about leveraging technology to solve real-world problems and deliver seamless user experiences. My skill set encompasses a wide range of technologies, allowing me to contribute effectively to both front-end and back-end development. I am committed to continuous learning and actively explore emerging technologies to stay ahead in the field.
+<h3 align="justify">As a developer, I am passionate about leveraging technology to solve real-world problems and deliver seamless user experiences. My skill set encompasses a wide range of technologies, allowing me to contribute effectively to both front-end and back-end development. I am committed to continuous learning and actively explore emerging technologies to stay ahead in the field.
 
 **Core Competencies**:
 - **Full-Stack Development**: Building end-to-end solutions with modern frameworks and technologies.
