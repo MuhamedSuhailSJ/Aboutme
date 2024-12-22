@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamed Suhai</h1>
+<h1 align="center">Welcome, I'm Muhamed Suhai</h1>
 <h3 align="center">As a developer, I am passionate about leveraging technology to solve real-world problems and deliver seamless user experiences. My skill set encompasses a wide range of technologies, allowing me to contribute effectively to both front-end and back-end development. I am committed to continuous learning and actively explore emerging technologies to stay ahead in the field.
 
 **Core Competencies**:
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhamedsuhailsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamedsuhailsj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/muhamedsuhailsj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhamedsuhailsj/" height="30" width="40" /></a>
+<a href="https://twitter.com/muhamedsuhailsj" target="blank"><img align="center" src="https://res.cloudinary.com/dzipdro4d/image/upload/v1734849384/CLIPLY_372109260_TWITTER_LOGO_400_akao9l.gif" alt="muhamedsuhailsj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/muhamedsuhailsj/" target="blank"><img align="center" src="https://res.cloudinary.com/dzipdro4d/image/upload/v1734849146/0d965c639dad997285aa1e434c0bc7d5_rupon8.gif" alt="linkedin.com/in/muhamedsuhailsj/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
